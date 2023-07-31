@@ -1,5 +1,5 @@
 # Json Server
-It's a json server to test frontend ecommerce apps.
+It's a json server to test frontend ecommerce apps with products data.
 
 Use the json server:
 
